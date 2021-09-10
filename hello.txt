@@ -1,3 +1,6 @@
 Hello, well come to the course 
-my name is Rajesh 
 How are you doing 
+
+the changes will see in the diff 
+
+lets find it
