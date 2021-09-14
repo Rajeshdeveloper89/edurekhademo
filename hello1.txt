@@ -1,6 +1,5 @@
-This is to test the git push to repository 
-need to change the line 
-I will make things perfect 
+This is the branching area created in bug3
+the changes need to noticed 
 
-this changes in appB file 
+the importance is the how many branches we switching 
 
