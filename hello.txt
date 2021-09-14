@@ -1,6 +1,7 @@
 Hello, well come to the course 
-How are you doing 
-
-the changes will see in the diff 
-
+How are you doing
+the changes will see in the diff t
 lets find it
+The changes made in the branch bug1 and file hello.txt 
+this should be merged in the master 
+
