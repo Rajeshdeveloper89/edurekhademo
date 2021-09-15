@@ -5,3 +5,4 @@ lets find it
 The changes made in the branch bug1 and file hello.txt 
 this should be merged in the master 
 
+hello rahul 
